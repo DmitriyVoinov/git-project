@@ -1,4 +1,2 @@
 echo "Made by Dmitriy Voinov";
-dasfa
-
-daf
+echo "another one line";
